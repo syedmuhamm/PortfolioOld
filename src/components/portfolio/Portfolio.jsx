@@ -1,4 +1,3 @@
-import { List } from "@material-ui/core";
 import { useState, useEffect } from "react";
 import PortfolioList from "../portfolioList/PortfolioList";
 import "./portfolio.scss";
